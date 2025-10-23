@@ -1,0 +1,22 @@
+#title {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border-color: rgba(0, 10, 10, 0.014);
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  background-color: rgba(131, 122, 122, 0.363);
+  margin: 0;
+}
+
+.full-border-top {
+  width: 100vw;
+  height: 5px;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
